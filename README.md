@@ -1,10 +1,9 @@
-### Snake
+# Snake
 
 Old project based on pygame. The game simulates the famous videogame Snake with some variations
 
-# Run
+### Run
 
-![](https://images.app.goo.gl/uZzJ78EQEs9pNhRW9)
 Create virtual environment:
 - python -m venv env
 
